@@ -15,3 +15,4 @@ Build reasons:
   * Images, fonts, css, etc.
 
 * [Getting Started](./01/README.md)
+* [Asset Management](./02/README.md)

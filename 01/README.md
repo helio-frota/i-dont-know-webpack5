@@ -22,8 +22,7 @@ module.exports = {
 ## Install and run
 
 ```console
-npm install webpack webpack-cli -D
-npx webpack
+npm install ; npx webpack
 ```
 
 In case we create a different filename other than `./src/index.js` we are going to get an error like this:
