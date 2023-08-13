@@ -14,6 +14,4 @@ Build reasons:
 * Add assets
   * Images, fonts, css, etc.
 
-## Examples
-
-[01](./01/README.md)
+* [Getting Started](./01/README.md)

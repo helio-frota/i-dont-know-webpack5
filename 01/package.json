@@ -1,7 +1,7 @@
 {
   "name": "01",
   "version": "1.0.0",
-  "main": "index.js",
+  "private": true,
   "devDependencies": {
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4"

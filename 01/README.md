@@ -1,14 +1,30 @@
-# 01
+# Getting Started
 
-Install the required dependencies.
+> Text reduced based on official docs <https://webpack.js.org/guides/getting-started/#basic-setup>
+
+* We can interact with webpack via CLI or API. But for this repository we are going to use the CLI and mostly using the webpack configuration file.
+* This is using the defaults, and since this is a really basic example it will create the `dist` directory with a file inside of it called `main.js`, nothing more than that, all the rest is just boring theory. The `npx webpack` command will take the script at `src/index.js` as the `entry point`, and will generate `dist/main.js` as the `output`.
+
+Because of these defaults, we **don't** need a `webpack.config.js` file with the following content:
+
+```js
+const path = require('path');
+
+module.exports = {
+  entry: './src/index.js',
+  output: {
+    filename: 'main.js',
+    path: path.resolve(__dirname, 'dist'),
+  },
+}
+```
+
+## Install and run
 
 ```console
 npm install webpack webpack-cli -D
+npx webpack
 ```
-
-When running `npx webpack` it will create a `dist` directory.
-
-It will work by default because we are using `./src/index.js` and it will generate a `./dist/main.js` file later.
 
 In case we create a different filename other than `./src/index.js` we are going to get an error like this:
 
