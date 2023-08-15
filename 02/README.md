@@ -34,3 +34,15 @@ We just need to add this part of the code inside of `webpack.config.js` file.
   type: 'asset/resource',
 },
 ```
+
+## Data (CSV, XML)
+
+For this we the loader again, like the css-loader.
+
+```console
+npm install csv-loader xml-loader -D
+```
+
+To add some custom JSON parsing we need to install more stuff, that is documented [here](https://webpack.js.org/guides/asset-management/#customize-parser-of-json-modules).
+
+
