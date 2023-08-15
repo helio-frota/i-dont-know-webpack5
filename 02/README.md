@@ -22,8 +22,4 @@ After `npm install ; npm run build` it created a bundle file `dist/main.js` with
 
 * We can use the built-in `Asset Modules` to incorporate those.
 
-## Install and run
-
-```console
-npm install ; npm run build
-```
+Not sure if I'm kind of dumb or something but apparently this just copy and paste the `foo.png` image to the destination folder. :grin:

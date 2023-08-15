@@ -1,3 +1,7 @@
 .bar {
   color: black;
 }
+
+bg {
+  background-image: url('./foo.png');
+}
