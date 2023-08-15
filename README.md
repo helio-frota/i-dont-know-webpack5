@@ -24,11 +24,7 @@ Build reasons:
 * [Caching](./06/README.md)
 * Authoring Libraries
 * Environment Variables
-* Build Performance
-* Content Security Policies
-* Development - Vagrant
 * Dependency Management
-* Installation
 * Hot Module Replacement
 * Tree Shaking
 * Production
@@ -39,7 +35,5 @@ Build reasons:
 * Web Workers
 * Progressive Web Application
 * Public Path
-* Integrations
 * Asset Modules
-* Advanced entry
 * Package exports
