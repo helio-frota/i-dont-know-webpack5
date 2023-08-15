@@ -21,3 +21,26 @@ Build reasons:
 * [Output Management](./03/README.md)
 * [Development](./04/README.md)
 * [Code Splitting](./05/README.md)
+* [Caching](./06/README.md)
+
+* Authoring Libraries
+* Environment Variables
+* Build Performance
+* Content Security Policies
+* Development - Vagrant
+* Dependency Management
+* Installation
+* Hot Module Replacement
+* Tree Shaking
+* Production
+* Lazy Loading
+* ECMAScript Modules
+* Shimming
+* TypeScript
+* Web Workers
+* Progressive Web Application
+* Public Path
+* Integrations
+* Asset Modules
+* Advanced entry
+* Package exports
