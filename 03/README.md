@@ -29,4 +29,3 @@ output: {
 Now we can see some things in the browser:
 
 ![a](./a.png)
-
