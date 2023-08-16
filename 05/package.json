@@ -1,0 +1,19 @@
+{
+  "name": "05",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "18"
+  },
+  "scripts": {
+    "start": "",
+    "build": "webpack --watch",
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "ts-loader": "^9.4.4",
+    "typescript": "^5.0.4"
+  }
+}

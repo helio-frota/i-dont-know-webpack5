@@ -18,20 +18,4 @@ Build reasons:
 * [Asset Management](./02/README.md)
 * [Output Management](./03/README.md)
 * [Development](./04/README.md)
-* [Code Splitting](./05/README.md)
-* [Caching](./06/README.md)
-* Authoring Libraries
-* Environment Variables
-* Dependency Management
-* Hot Module Replacement
-* Tree Shaking
-* Production
-* Lazy Loading
-* ECMAScript Modules
-* Shimming
-* TypeScript
-* Web Workers
-* Progressive Web Application
-* Public Path
-* Asset Modules
-* Package exports
+* [TypeScript](./05/README.md)
